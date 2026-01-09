@@ -51,14 +51,16 @@ Users can search weather details by entering a city name.
 ├── 📁 ToDo_List
 │ ├── Cipher.html
 │ ├── corner.css
-│ └── main.js
+│ ├── main.css
+│ └── main.js # JavaScript logic for To-Do List
 │
 ├── 📁 Weather_App
 │ ├── index.html
 │ ├── style.css
-│ └── script.js
+│ ├── script.js
+│ └── Weather.jpg # UI background/image
 │
-└── 📄 README.md ⭐ (This file)
+└── 📄 README.md ⭐ (Main documentation)
 ```
 ---
 ### ✅ Prerequisites
