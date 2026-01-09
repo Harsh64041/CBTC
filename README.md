@@ -71,7 +71,7 @@ Users can search weather details by entering a city name.
 
 ***Step 1. Clone the repository:*** 
 ```bash
-git clone https://github.com/Harsh64041/<repo-name>.git
+git clone https://github.com/Harsh64041/CBTC.git
 ```
 **Step 2. Open the required project folder:**
 - For To-Do List → open ToDo_List/index.html
